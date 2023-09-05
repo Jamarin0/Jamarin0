@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joao Guilherme</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">Fullstack .net and node.js developer from Brazil. Currently working with cyber security and development.</h3>
 
-- 📫 How to reach me **guijamarino@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
